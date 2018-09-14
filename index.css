@@ -1,3 +1,7 @@
 .solve{
-    text-decoration : line-through
+    text-decoration : line-through;
+}
+div.title{
+    margin: 5px 5px 5px 5px ;
+    
 }
