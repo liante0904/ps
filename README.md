@@ -6,7 +6,7 @@
 
 - [liante0904.github.io/ps](https://liante0904.github.io/ps)
 
-### 분류
+# 분류
 ## 필수
 - C , STL(C++)
 - 복잡도
