@@ -1,12 +1,23 @@
-## ps연습장
+# 알고리즘 문제해결 능력 연습장
 
-알고리즘 문제해결 능력 (ps) 향상과 동기부여를 위해 만들고 작성된 페이지입니다.
+## 개요
+
+UPDATE : 2021/10/29
+
+
+
+
+
+
+
+
+
+
 
 ## 링크
-
+- [BOJ 단계별로 풀어보기 진행 (링크)](https://www.acmicpc.net/step)
 - [liante0904.github.io/ps](https://liante0904.github.io/ps)
 
-# 분류
 ## 필수
 - C , STL(C++)
 - 복잡도
