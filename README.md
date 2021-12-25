@@ -5,9 +5,7 @@
 UPDATE : 2021/10/29
 
 ## 링크
-- [BOJ 단계별로 풀어보기 진행 (링크)](https://www.acmicp 
-
-c.net/step)
+- [BOJ 단계별로 풀어보기 진행 (링크)](https://www.acmicpc.net/step)
 - [liante0904.github.io/ps](https://liante0904.github.io/ps)
 
 ## 필수
